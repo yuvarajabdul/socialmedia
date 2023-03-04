@@ -48,9 +48,13 @@ The application shall be designed with usability in mind, ensuring an intuitive 
 
 TECHNOLOGY AND TOOLS:
 The application shall be developed using the following technologies and tools:
-  Programming languages: Java, Swift, Kotlin, HTML, CSS, JavaScript
-  Backend: Node.js, Express.js, MongoDB, Firebase
-  Frontend: React, React Native, Redux, Material UI
+  
+  Programming languages: Java, Swift, Kotlin, HTML, CSS, JavaScript.
+  
+  Backend: Node.js, Express.js, MongoDB, Firebase.
+  
+  Frontend: React, React Native, Redux, Material UI.
+  
   DevOps: Docker, Kubernetes, Jenkins, AWS
 
 CONCLUSION:
