@@ -1,2 +1,4 @@
-# socialmedia
-task 1
+#SRS FILE FOR BUILDING SOCIAL MEDIA APPLICATION
+
+
+
