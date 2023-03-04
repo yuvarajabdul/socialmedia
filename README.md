@@ -1,5 +1,4 @@
-SRS FILE FOR BUILDING SOCIAL MEDIA APPLICATION
-DESCRIPTION:
+SRS FILE FOR BUILDING SOCIAL MEDIA APPLICATION.
 
 INTRODUCTION:
     The purpose of this document is to specify the software requirements for a social media application. This application will allow users to create profiles, connect with friends and family, share content such as photos and videos, and engage in various forms of communication. The application will be developed for mobile and web platforms, using modern software development practices.
@@ -47,7 +46,7 @@ INTRODUCTION:
 2.5 USABILITY:
 The application shall be designed with usability in mind, ensuring an intuitive user interface, clear navigation, and consistent user experience across different platforms.
 
-TECHNOLOGUY AND TOOLS:
+TECHNOLOGY AND TOOLS:
 The application shall be developed using the following technologies and tools:
   Programming languages: Java, Swift, Kotlin, HTML, CSS, JavaScript
   Backend: Node.js, Express.js, MongoDB, Firebase
